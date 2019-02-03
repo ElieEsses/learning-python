@@ -1,16 +1,16 @@
 # learning-python
 A compilation of projects I have completed while learning python.
 
-Stock Puller - Gets current stock price of a specified company and appends it to it's .csv if it has been created already, if not it creates one.
+- stock_puller - Gets current stock price of a specified company and appends it to it's .csv if it has been created already, if not it creates one.
 
-Rock Paper Scissors - a simple, rock, paper, scissor game.
+- rock_paper_scissors - a simple, rock, paper, scissor game.
 
-Image Scraper - Using "Beautiful Soup" this image scraper searches pexels.com for images based on the search it receives.
+- image_scraper - Using "Beautiful Soup" this image scraper searches pexels.com for images based on the search it receives.
 
-Guessing Game - A simple number guessing game built with python.
+- guessing_game - A simple number guessing game built with python.
 
-Fibinacci Sequence Calculator - Calculates a specified amount of digits in the Fibonacci Number Sequence.
+- fib_calc - Calculates a specified amount of digits in the Fibonacci Number Sequence.
 
-Staircase Builder - Builds a staircase made of '#', that's size is based on the number that is entered.
+- staricase_builder - Builds a staircase made of '#', that's size is based on the number that is entered.
  
-Movie Poster Reader - A simple program that when given a simple picture of a movie poster, can recognize the text using PyTesseract and return data about the movie using IMDbPy.
+- movie_poster_reader - A simple program that when given a simple picture of a movie poster, can recognize the text using PyTesseract and return data about the movie using IMDbPy.
