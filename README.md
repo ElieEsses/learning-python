@@ -1,6 +1,8 @@
 # learning-python
 A compilation of projects I have completed while learning python.
 
+Stock Puller - Gets current stock price of a specified company and appends it to it's .csv if it has been created already, if not it creates one.
+
 Rock Paper Scissors - a simple, rock, paper, scissor game.
 
 Image Scraper - Using "Beautiful Soup" this image scraper searches pexels.com for images based on the search it receives.
