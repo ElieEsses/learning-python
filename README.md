@@ -1,9 +1,11 @@
 # learning-python
 A compilation of projects I have completed while learning python.
 
+- sierpinski triangle - A program that simulates a sierpinski triangle
+
 - stock_puller - Gets current stock price of a specified company and appends it to it's .csv if it has been created already, if not it creates one.
 
-- rock_paper_scissors - a simple, rock, paper, scissor game.
+- rock_paper_scissors - A simple, rock, paper, scissor game.
 
 - image_scraper - Using "Beautiful Soup" this image scraper searches pexels.com for images based on the search it receives.
 
